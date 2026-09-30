@@ -43,15 +43,21 @@ I enjoy building practical projects that combine hardware, software, and intelli
 **Also interested in:**  
 `IoT` `Embedded Systems` `Wireless Communication` `Signal Processing` `RSSI Analysis`
 
-### 🔧 Tools
+### ⚡ Electronics & Simulation Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,matlab" />
+  <img src="https://skillicons.dev/icons?i=arduino,matlab" />
 </p>
 
-`Vivado` `Render`
+`NI LabVIEW` `NI Multisim` `Xilinx Vivado` `HFSS` `MATLAB`
 
----
+### 💻 Software & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github" />
+</p>
+
+`Eclipse IDE` `Flask` `MySQL` `SQLite` `Render`
 
 ## 🚀 Featured Projects
 
