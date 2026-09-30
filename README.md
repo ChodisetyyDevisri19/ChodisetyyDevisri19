@@ -22,17 +22,34 @@ I enjoy building practical projects that combine hardware, software, and intelli
 
 ## 🛠️ Skills & Technologies
 
-### Programming
-`Python` `Java` `JavaScript` `HTML` `CSS`
+### 💻 Programming Languages
 
-### Technologies
-`Flask` `JDBC` `MySQL` `SQLite` `Git` `GitHub`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
 
-### Electronics & ECE
-`Arduino` `ESP8266` `ESP32` `IoT` `Embedded Systems` `Wireless Communication` `RSSI Analysis`
+### 🌐 Web & Backend
 
-### Tools
-`VS Code` `MATLAB` `Vivado` `GitHub` `Render`
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,mysql,sqlite,git,github" />
+</p>
+
+### 📡 Electronics & Embedded Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,esp32" />
+</p>
+
+**Also interested in:**  
+`IoT` `Embedded Systems` `Wireless Communication` `Signal Processing` `RSSI Analysis`
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,matlab" />
+</p>
+
+`Vivado` `Render`
 
 ---
 
