@@ -45,19 +45,30 @@ I enjoy building practical projects that combine hardware, software, and intelli
 
 ### ⚡ Electronics & Simulation Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,matlab" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,matlab" height="45"/>
+  <img src="https://img.shields.io/badge/NI%20LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" height="45"/>
+  <img src="https://img.shields.io/badge/NI%20Multisim-FFDB00?style=for-the-badge&logoColor=black" height="45"/>
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-ED1C24?style=for-the-badge&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/Ansys%20HFSS-FFB71B?style=for-the-badge&logoColor=black" height="45"/>
 </p>
-
-`NI LabVIEW` `NI Multisim` `Xilinx Vivado` `HFSS` `MATLAB`
 
 ### 💻 Software & Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github" height="45"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" height="45"/>
+</p>
+### 📡 Embedded Systems & Communication
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,esp32" height="45"/>
 </p>
 
-`Eclipse IDE` `Flask` `MySQL` `SQLite` `Render`
+`ESP8266` `IoT` `Wireless Communication` `Signal Processing` `RSSI Analysis`
 
 ## 🚀 Featured Projects
 
