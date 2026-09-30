@@ -62,13 +62,7 @@ I enjoy building practical projects that combine hardware, software, and intelli
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="45"/>
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" height="45"/>
 </p>
-### 📡 Embedded Systems & Communication
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,esp32" height="45"/>
-</p>
-
-`ESP8266` `IoT` `Wireless Communication` `Signal Processing` `RSSI Analysis`
 
 ## 🚀 Featured Projects
 
